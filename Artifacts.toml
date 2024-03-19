@@ -1,69 +1,69 @@
 [[GAP_pkg_nq]]
 arch = "aarch64"
-git-tree-sha1 = "002a3ffac716c47caafddec0edc02952b3c612db"
+git-tree-sha1 = "32d24c998668751298e54d1becd863e38b4388a4"
 os = "macos"
 
     [[GAP_pkg_nq.download]]
-    sha256 = "ae1cfb2b46df2735229b53a22c9530976051d15eda1ab3bf1395f2b72c86b6b7"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_nq_jll.jl/releases/download/GAP_pkg_nq-v200.500.900+0/GAP_pkg_nq.v200.500.900.aarch64-apple-darwin.tar.gz"
+    sha256 = "2cca51d916abacb874c61f6bf191394203961b40f1b85fb9f199e778dab12827"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_nq_jll.jl/releases/download/GAP_pkg_nq-v200.500.1100+0/GAP_pkg_nq.v200.500.1100.aarch64-apple-darwin.tar.gz"
 [[GAP_pkg_nq]]
 arch = "aarch64"
-git-tree-sha1 = "af949275af8c9da57723ce3aaad63e662efcdf3f"
+git-tree-sha1 = "ad0880bdbe6c351373adbed35e498833184cdee0"
 libc = "glibc"
 os = "linux"
 
     [[GAP_pkg_nq.download]]
-    sha256 = "279d704773a2db58710202d7bacc62cfc8910f5128ef3d4be6009e3ef1fcef4a"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_nq_jll.jl/releases/download/GAP_pkg_nq-v200.500.900+0/GAP_pkg_nq.v200.500.900.aarch64-linux-gnu.tar.gz"
+    sha256 = "a375f3bdcbf50dbd48ab6fc14b5cb1000a9c2d64570a7cceaa724f9565b8475e"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_nq_jll.jl/releases/download/GAP_pkg_nq-v200.500.1100+0/GAP_pkg_nq.v200.500.1100.aarch64-linux-gnu.tar.gz"
 [[GAP_pkg_nq]]
 arch = "aarch64"
-git-tree-sha1 = "b5c9a76d6c1d5bda61e12ccff139fff17ca6d9ff"
+git-tree-sha1 = "2de9f314155f8fe67ef63a7f5542412d929ad655"
 libc = "musl"
 os = "linux"
 
     [[GAP_pkg_nq.download]]
-    sha256 = "2e5cb65b5e33f4130048fd683ea5b627596820c37647161f947ade6f0525da46"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_nq_jll.jl/releases/download/GAP_pkg_nq-v200.500.900+0/GAP_pkg_nq.v200.500.900.aarch64-linux-musl.tar.gz"
+    sha256 = "f7080998c73fa0ed9f888df84995f5317e4a8bca7a24d6dd628ec8713cc1f212"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_nq_jll.jl/releases/download/GAP_pkg_nq-v200.500.1100+0/GAP_pkg_nq.v200.500.1100.aarch64-linux-musl.tar.gz"
 [[GAP_pkg_nq]]
 arch = "powerpc64le"
-git-tree-sha1 = "1afbaee73bbd97544c1aefb453dce11273867a2e"
+git-tree-sha1 = "61163be4d549b77d60025b136875b10935bb3057"
 libc = "glibc"
 os = "linux"
 
     [[GAP_pkg_nq.download]]
-    sha256 = "3d70431bdc513cc8205bd1155effeaa03d46070990d1ae3f179124902b32ef43"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_nq_jll.jl/releases/download/GAP_pkg_nq-v200.500.900+0/GAP_pkg_nq.v200.500.900.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "cbd98b58040401270bb7421dcc82faf17e9cd5a50bc8ea1fbf42425477b1af14"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_nq_jll.jl/releases/download/GAP_pkg_nq-v200.500.1100+0/GAP_pkg_nq.v200.500.1100.powerpc64le-linux-gnu.tar.gz"
 [[GAP_pkg_nq]]
 arch = "x86_64"
-git-tree-sha1 = "0eaba6eec88de3cd181a68e3e037ab1a8f917630"
+git-tree-sha1 = "7b7198498cc4f765ad201cc8d6cb19cc8ec962f8"
 os = "macos"
 
     [[GAP_pkg_nq.download]]
-    sha256 = "6a5c4b1d4fa0a9f6fb5549ae0cdd928a0f5bebbfb1351440b3c6634e08d01045"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_nq_jll.jl/releases/download/GAP_pkg_nq-v200.500.900+0/GAP_pkg_nq.v200.500.900.x86_64-apple-darwin.tar.gz"
+    sha256 = "40a4788127dfba96a9f7e46ce149e8d17de1bc0f21c0d706deb7e7ce622943c1"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_nq_jll.jl/releases/download/GAP_pkg_nq-v200.500.1100+0/GAP_pkg_nq.v200.500.1100.x86_64-apple-darwin.tar.gz"
 [[GAP_pkg_nq]]
 arch = "x86_64"
-git-tree-sha1 = "42a0f817841a95da60d4aefe3557fc5b6a1613dc"
+git-tree-sha1 = "b10df779e97b66f2defddaf9c53b9728b652a3a6"
 libc = "glibc"
 os = "linux"
 
     [[GAP_pkg_nq.download]]
-    sha256 = "9a12389a65472043b0a4a3a8003f910db57a1f9e0fe9844fb23ea9537e666446"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_nq_jll.jl/releases/download/GAP_pkg_nq-v200.500.900+0/GAP_pkg_nq.v200.500.900.x86_64-linux-gnu.tar.gz"
+    sha256 = "8d67c7c46646f6d456e998dd4d53fa5fb54847c7977f2a720bfe9cca9ce6e000"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_nq_jll.jl/releases/download/GAP_pkg_nq-v200.500.1100+0/GAP_pkg_nq.v200.500.1100.x86_64-linux-gnu.tar.gz"
 [[GAP_pkg_nq]]
 arch = "x86_64"
-git-tree-sha1 = "6ee2de082ae3147741da299e748142cd04aa6617"
+git-tree-sha1 = "83d5f18e1a4c8b5f39e68d2c81736a7e5b17fd38"
 libc = "musl"
 os = "linux"
 
     [[GAP_pkg_nq.download]]
-    sha256 = "c6a1dadcd33fe94a816e01bba8cedf90c5bca6a2c4ec6b949b6bc4458494e712"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_nq_jll.jl/releases/download/GAP_pkg_nq-v200.500.900+0/GAP_pkg_nq.v200.500.900.x86_64-linux-musl.tar.gz"
+    sha256 = "d4132cf77a51f5f9ea4d9d4acc30174c537e83705f3d28726faf41d22d9e1eba"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_nq_jll.jl/releases/download/GAP_pkg_nq-v200.500.1100+0/GAP_pkg_nq.v200.500.1100.x86_64-linux-musl.tar.gz"
 [[GAP_pkg_nq]]
 arch = "x86_64"
-git-tree-sha1 = "c1717faeaf15d360c183d3ac251b7688121c57c8"
+git-tree-sha1 = "478592d4d869c94c2cdd1da5869970610be0dc91"
 os = "freebsd"
 
     [[GAP_pkg_nq.download]]
-    sha256 = "687c5f359b1cb3acdc785fd9518ef405b8b9068f114a343ab2439a6c1da3c3bb"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_nq_jll.jl/releases/download/GAP_pkg_nq-v200.500.900+0/GAP_pkg_nq.v200.500.900.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "0e2578bbdb3ffcbacb266bb65c499f422a80673e75f507748713b4aa50919d84"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_nq_jll.jl/releases/download/GAP_pkg_nq-v200.500.1100+0/GAP_pkg_nq.v200.500.1100.x86_64-unknown-freebsd.tar.gz"
